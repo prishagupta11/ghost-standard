@@ -184,7 +184,7 @@ Stores:
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Prisha Gupta**
 
 GitHub:
 https://github.com/prishagupta11
